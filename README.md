@@ -1,4 +1,4 @@
-## Yeah sir 👋, I'm @guuga.wav
+## Hello sir 👋, I'm @guuga.wav
 
 <!--
 **engguga/engguga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
