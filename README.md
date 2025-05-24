@@ -22,15 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=engguga&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enguga&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Contact
 
 - Email: [engsoftwaregustavoviana@gmail.com](mailto:engsoftwaregustavoviana@gmail.com)
